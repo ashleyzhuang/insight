@@ -1,0 +1,1 @@
+sftp-config.json $ git rm --cached sftp-config.json rm sftp-config.json $ git commit -m Start ignoring sftp-config.json
